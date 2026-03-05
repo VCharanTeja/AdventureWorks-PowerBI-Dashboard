@@ -1,16 +1,28 @@
-# AdventureWorks-PowerBI-Dashboard
-Power BI Sales Performance Dashboard using AdventureWorks dataset. Analyzed revenue, profit, orders, and product trends.
+# Power BI Sales Performance Dashboard
 
-Power BI Sales Performance Dashboard
+## Project Overview
+This project analyzes sales performance using the AdventureWorks dataset.
 
-Tools: Power BI, DAX, Data Modeling
+The dashboard provides insights into:
 
-KPIs:
-Revenue
-Profit
-Orders
-Return Rate
+• Revenue  
+• Profit  
+• Orders  
+• Return Rate  
 
-Insights:
-Revenue increased in 2022
-Accessories generated the highest orders
+## Tools Used
+Power BI  
+DAX  
+Data Modeling  
+
+## Key Insights
+• Revenue increased significantly in 2022  
+• Accessories generated the highest orders  
+• Return rate is 2.2%
+
+## Dashboard Preview
+Dashboard.png
+
+## Files
+AdventureWorks_Dashboard.pbix
+Dashboard.png
