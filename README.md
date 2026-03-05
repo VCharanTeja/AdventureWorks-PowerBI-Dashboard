@@ -26,3 +26,6 @@ Dashboard.png
 ## Files
 AdventureWorks_Dashboard.pbix
 Dashboard.png
+
+# Live Dashboard
+https://app.powerbi.com/reportEmbed?reportId=d46601c6-f467-4b81-904e-cd4954de0230&autoAuth=true&ctid=b6724690-49c6-4f03-9601-bd191ae44f23
